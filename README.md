@@ -1,0 +1,2 @@
+# psbyebye
+PowerShell offboarding Script
